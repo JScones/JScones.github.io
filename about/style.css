@@ -1,0 +1,41 @@
+:root {
+    --breakpoint-mobile: 640px;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.col-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 640px) {
+    .col-3 {
+        display: block;
+    }
+}
+
+.interest {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0;
+}
+
+.interest-icon {
+    aspect-ratio: 1;
+    width: 50px;
+}
+
+.interest-icon > svg {
+    width: inherit;
+    display: block;
+}
+
+p.interest-description {
+    margin-left: 1rem;
+    margin-bottom: 0;
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Josh Bernasconi</title>
+    <link>https://jscones.github.io/</link>
+    <description>Recent content on Josh Bernasconi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jscones.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://jscones.github.io/about/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jscones.github.io/about/</guid>
+      <description>Who am I? I&amp;rsquo;m 25 years old and currently living in Auckland, New Zealand.
+I love working on the front-end, but I&amp;rsquo;m a capable full stack developer.
+I&amp;rsquo;m a hands-on engineer that loves a challenge, learning new skills and getting things done.
+My Interests Snowboarding - Got into it whilst living in Christchurch
+Music - Most sounds under the umbrella that is Electronic Dance Music, though DnB is closest to my ❤️</description>
+    </item>
+    
+  </channel>
+</rss>
